@@ -1,8 +1,49 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Redux
 
-Currently, two official plugins are available:
+- Store
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Middlewares
+
+- Dispatch
+
+- Actions
+
+- State
+
+- Acciones asíncronas
+
+- RTK Query
+
+- Redux Toolkit
+
+- Slices
+
+- Redux aplicado en nuestro proyecto
+
+- Firebase
+
+- FireStore
+
+- Redux Devtools
+
+- Thunk
+
+- Formularios
+
+- Google SingIn
+
+- Acciones Asíncronas
+
+- Mantener el estado de la autenticación
+
+- CRUD hacia Firestore
+
+- Expandiendo nuestro store añadiendo otros reducers
+
+- Seleccionar y subir archivos
+
+- Animaciones adicionales a nuestra aplicación
+
+- Limpieza en el logout
